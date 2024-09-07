@@ -1,0 +1,57 @@
+The mean of negative article scores is 0.10266
+The mean of neutral article scores is 0.8401799999999998
+The mean of positive article scores is 0.05713999999999999
+The 5 most positive articles are:                                                                                                               title  \
+92  Stakeholder in Trump’s Truth Social parent company wins court ruling over share transfer - The Associated Press   
+45                                                 Georgia Attorney General Hands Donald Trump Major Win - Newsweek   
+21                                             Opinion | The Wonderful Trump Headline Machine - The Washington Post   
+0            Trump’s allies fear he’ll blow the debate — his best chance to regain ground against Harris - POLITICO   
+47                                  The Growing List of Republicans Who Have Endorsed Kamala Harris - Rolling Stone   
+
+     day                       time  \
+92   Fri   06 Sep 2024 23:38:00 GMT   
+45   Sat   07 Sep 2024 10:11:29 GMT   
+21   Sat   07 Sep 2024 04:05:29 GMT   
+0    Sat   07 Sep 2024 11:00:00 GMT   
+47   Sat   07 Sep 2024 14:00:00 GMT   
+
+                                                                                                                                                                                                                                                                                          link   \
+92                                  https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHA5V3dPUHgzazA5aHJnVUdtdlpqMDZlR2dVN0hySE1BZl8waWlRNzN2VlBSUzk4RGVmMUlEbGVsNzBZZFYxaDlSaHFPQk9aVGpIbnJUaUJUYWtCb21uX0hSN2RFSlY4OFM2ZDNLZzJEVlJGQ1BqYVc1NHZZTjBieWVEWmtjNFotWHR1SjYxXzN0dS1wbkc0?oc=5    
+45                                                        https://news.google.com/rss/articles/CBMihgFBVV95cUxNekwwUG5DcGM3V2dQNXNmc21JcjBXSV9rbTBrYWEwTGpCSF9pd3dDNGhIa0xPa1o4bnlUanZjVW9KNHd1V0ZLdW5CRHNOc1VUTVo4T1VBQ1V4eHRtaFRWTmNUeml2bGx1LTlIU2x2VUdER0p4b2NOUVVJaDBvWnZfN095MmM0UQ?oc=5    
+21                                                      https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVdleENFbXRCWlFfQk5qZWxwMS04LWtOTE5XVXlKUFMzXzFoUDBEM0dwMDJ3LTZhaEpiamt6dXdrYjdlVklsMzBxTnBpMzBKanY5V1A4ZnYzTGQzaHV0X3ZWdE5Yd2V0dlY2Y2h2QTVqNkM4Smw0bVQ4ZS01SnhlbDlWOTh5WkF5?oc=5    
+0                                                                 https://news.google.com/rss/articles/CBMigAFBVV95cUxQcFZ6MXBRVnctTHdzSmo0eHdwNHFveDJvMmNoNnRweGpvUWIzRXVFcFdXeFo3dE5qUzh1WFRZanlvMVZzY2lXQm1WcjdoZU1PY0V3eU5mM0g4ZEh6c0dSSHJjb2V2S3diNnhPSXduajNrd0FJUXkwSGF4eWtTbjhaWg?oc=5    
+47   https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGNCNjhQa0VIeFBDYy1Jc2VhczZRSUFCUzNqb0Z4NUxUM0NJVnhTRnVzZFlNaTVyeHU1Uk1xMExzU2k1cURuRkdiY3F4WkM3ekZQZlZubUpSOWh0TmRyVTZIejY1SDl4UUdTMzdxbF9XUWNNdW94RF9NODRkVlNwelZLczlBd0VhUzhFczhjYkZ0MGtuR2xHRWc5UjhuZFkwb0R0TWZQcV90V0ExekE?oc=5    
+
+    Negative  Neutral  Positive  
+92     0.000    0.631     0.369  
+45     0.000    0.687     0.313  
+21     0.000    0.730     0.270  
+0      0.131    0.615     0.254  
+47     0.000    0.748     0.252  
+The 5 most negative articles are:                                                                                                         title  \
+81                                    Donald Trump criminal sentencing delayed until after election - BBC.com   
+61                                      There Was No Good Legal Reason to Delay Trump’s Sentencing - POLITICO   
+46                              Trump gets criminal sentencing delayed till after presidential election - NPR   
+32           Trump rants resurfaces sexual assault allegations for 49 unfocused minutes - The Washington Post   
+88  Worst possible outcome for Trump: Why Trump's sentencing delay may make 'confinement' more likely - MSNBC   
+
+     day                       time  \
+81   Fri   06 Sep 2024 17:28:56 GMT   
+61   Fri   06 Sep 2024 22:48:43 GMT   
+46   Fri   06 Sep 2024 18:59:57 GMT   
+32   Sat   07 Sep 2024 05:36:45 GMT   
+88   Sat   07 Sep 2024 04:02:34 GMT   
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     link   \
+81                                                                                                                                                                                                             https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DeTMxVE9pcVp1dy1vclM4RE5vcDg3YnlyWjE3N1pfeG9rS2ZPcHhjWXFDdl9JcWI1ZnV6VndsTXJEWnEydW45aDBNTEtPa0pjLTlmd0ExcUpxQdIBX0FVX3lxTFBmT3A0OFJ0c1VrRkg3SGMyZDM3bHlTTnhtWHF5Q1J4MmRqZmxDOFdUMDF5eTZiRjZsVE9TYXQzTXJQV0RVMkdkQnFkWkxZa0pqSXVETFVzMEdFaFh0S0JB?oc=5    
+61                                                                                                                                                                                                                                                                  https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVNuaHVMRnFWeDFDZzA1MVVQRmt0dXBLQVlQOHpfbDc5d0RsNjEyZVlzTV9LV3NZSE9tNGJEMWVkOTI4Ulc0VFRxR2Zibi1JRFRocl9iMXVQZDNjRTVGal9DTkNpNW9DaWtkWjNvbFJKSTNZcG5rbnNoeGpLRjRzd0x1bEFJbzI5R2E2eXA1eVhWSWs?oc=5    
+46                                                                                                                                                                                                                                                                         https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWlSZEx2MzV6b055YjBvNGpZUmJJWlBleGd3Mmd4QmtqbnNqdXpYQ3pZc2xWU2Rlb1lkc2ZpRXZLVU5VN3VwQUN0VnMzbjBZYjR5Sjl3NUFnUWRJeW9iZFpjMTE5Y2QwSW5CQ0xWWUgwNzBUelEtTlVBZmZIbEZpdk8yYUdLb3BPM2U1Rm9R?oc=5    
+32                                                                                                                                                                                                                                                                       https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDVIWTFObkxHZEFlajF0ZURPaXFqZ3E0OVMxUG5WamZOVFo1VVVsblctdFdiX013c2VOekI5NlBmQ0VsWllEWlJFY3RSWmFSNjlKd0FMME0xN3B4T3o3S2VfRDFsWlh4UW9LZFYwTXdJd2RHbUhlRlpyeXIwcVAtbW1aZ3h4Vll3VWpyX3RINA?oc=5    
+88   https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbV9tMjJkNWNPU3FrNDFqMWlFT0VTb0lpdjZiOHFKWkxSSHBfMVR1clMyYVA5WG8xeGpOOWdwQWFBdGdxY002YnhoSDZ6Ty1QWHI0M2tZLWVGN1JFd3VoNWVDc1hqc19sR0FfTVZBN19FZ3NTRHFnelNYN3JDcFRvb1Izc0Y3aWVGM0gwZzJDVkd5bjBUeU94d3VCZ1RoZzgtOVh1dEpLaUkwRzdCZklHcFgwSTE4VUZkcjVsTVVCYktBN2dRX3BPbjktY1o4cnZ6YlZsSXdtYmlfdEtQdjVYRnUyZ1NxeTJ3TzdJ0gFkQVVfeXFMTlpoazZ4bEkyaGRJU1RyYTBrdmdCdlk0Z3ZxaVNyQ1M5eXZ1SXgwTzRrWFI2bkRhZDUwbGhxUF8zXzVSREJuQUdsbW51TE4yZTVaa1BETU51Vk9Tb2xqMjNmQlRPVg?oc=5    
+
+    Negative  Neutral  Positive  
+81     0.496    0.504       0.0  
+61     0.490    0.510       0.0  
+46     0.463    0.537       0.0  
+32     0.444    0.556       0.0  
+88     0.381    0.619       0.0  
